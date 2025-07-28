@@ -1,1 +1,1 @@
-# Autimated-Incident-Management-System
+# Automated Incident Management System (AIMS)
